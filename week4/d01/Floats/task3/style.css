@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.box{
+    background-color: rebeccapurple;
+}
+    
+.float{
+        margin: 15px;
+        width: 150px;
+        height: 150px;
+        border-radius: 5px;
+        background-color: rgb(207,232,220);
+        padding: 1em;
+}
+
+.float {
+    float: right;
+}
+  
+.box {
+    display: flow-root;
+}
+      
+
